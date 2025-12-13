@@ -1,24 +1,36 @@
-### Hi there 👋, My Name Is Adam
-#### This is my Readme File :D
-![This is my Readme File :D](https://i.pinimg.com/736x/03/2a/b4/032ab4621f479622f92218b1b42dbaf7.jpg)
+### Hi there, Hey I'm ~~$tacks~~
+#### **I'm a Eithcal Coder.**
+![**I'm a Eithcal Blackhat.**](https://i.ibb.co/tpCW9bnM/From-Klick-Pin-CF-hx-n-vida-em-2025-Foto-de-capa-twitter-Foto-gif-Imagem-para-capa.gif)
 
-i'm 20 years old, im a blackhat in python and i like javascript too and sql
-i made and tested alot of cool projects including , python image loggers , htmls  , portfolios , a tool i made called nexium for simple tasks
+- I'm A Student From Egypt , I'm A Excellent Programmer In Js , Python And Sql , 
+- I Like Making Tools Ahd Shi That People Need And Post Them [Here](https://github.com/2tacks/Tools-i-Made/blob/main/README.md)
+- Who Need Them,
 
-Skills: BT PYTHON / REACT /HTML / CSS / JS / TS / RUBY / ASSEMBLY 
+- Skills: Python , Javascript , Assembly , Lua , C# .
 
-- 🔭 I’m currently working on better ethical hacking tools. 
-- 🌱 I’m currently learning assembly. 
-- 👯 I’m looking to collaborate on npm and git and a linux distro. 
-- 💬 Ask me about my tools for help. 
-- 📫 How to reach me: by my email (adam.j.hafez2@gmail.com). 
-- 😄 Pronouns: he/him. 
-- ⚡ Fun fact: i like alot of people's personalitys. 
+- I’m currently **creating a new Tool**
+- I’m currently learning **assembly** 
+- Ask me about **tools to Post and Update** 
+- How to reach me: ~~**adam.j.hafez2@gmail.com**~~ 
+- Pronouns: **he/him**
+  # Socials
+  - [Discord](https://discord.com/users/1146715787051155517)
+  - [Pinterest](https://www.pinterest.com/adamjj2364/)
+  - [Spotify](https://open.spotify.com/user/31bb7gna3xhvblofxljikwdpp4nm)
+  - [Portfolio](https://patcherdev.vercel.app)
+  - [Readme Creator For Profiles](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+  - [Guns.lol](https://guns.lol/s.tacks)
+  - Emails: **i1vory_@outlook.com**
+  # Tools I Like
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2tacks)  
+  - [Red Tiger Tools]([https://github.com/2tacks/redtigertools)
+  - [Sqlmap](https://sqlmap.org)
+  - [Exiftool](https://exiftool.org)
+  - [Osint Framework](osintframework.com)
+ # My Stats
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2tacks&show_icons=true&count_private=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2tacks)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2tacks&show_icons=true&count_private=true)  
 
