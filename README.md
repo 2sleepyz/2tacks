@@ -3,8 +3,8 @@
 
 <p align="center">
   <div style="display:flex; align-items:center; justify-content:center; gap:24px;">
-    <img src="https://i.ibb.co/HT89Dp10/image.png" height="200" />
-    <img src="https://github.com/$sleepyz.png" height="200" style="border-radius:50%;" />
+    <img src="https://i.pinimg.com/originals/9b/a7/b2/9ba7b2044d71655aa27460ba2b5fa372.gif" height="200" />
+    <img src="https://github.com/2sleepyz.png" height="200" style="border-radius:50%;" />
   </div>
 </p>
 
