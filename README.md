@@ -1,10 +1,10 @@
-### **Hi** **there,** **Hey** **I'm** **~~$tacks~~**
+### **Hi** **there,** **Hey** **I'm** **~~$sleepyz~~**
 #### **I'm** **a** **Eithcal** **Coder.**
 
 <p align="center">
   <div style="display:flex; align-items:center; justify-content:center; gap:24px;">
     <img src="https://i.ibb.co/HT89Dp10/image.png" height="200" />
-    <img src="https://github.com/2tacks.png" height="200" style="border-radius:50%;" />
+    <img src="https://github.com/$sleepyz.png" height="200" style="border-radius:50%;" />
   </div>
 </p>
 
@@ -22,7 +22,6 @@
 - **Pronouns:** **he/him**
 
 # **Socials**
-- [**Discord**](https://discord.com/users/1146715787051155517)
 - [**Pinterest**](https://www.pinterest.com/adamjj2364/)
 - [**Spotify**](https://open.spotify.com/user/31bb7gna3xhvblofxljikwdpp4nm)
 - [**Portfolio**](https://patcherdev.vercel.app)
